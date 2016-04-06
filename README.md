@@ -12,6 +12,13 @@ Snad vám tahle "kačka" pomůže nastartovat projekt. Aneb ***v Korunce se s v�
 
 [Node](https://github.com/nodejs/node) + [TypeScript](http://www.typescriptlang.org/) + [Webpack](https://webpack.github.io/) + [Angular2](https://angular.io/) + [SASS](http://sass-lang.com/) + more comming soon
 
+[![Dependency Status](https://david-dm.org/korunka/korunka5-frontend-broiler-plate.svg)](https://david-dm.org/korunka/korunka5-frontend-broiler-plate)
+[![Code Climate](https://codeclimate.com/github/korunka/korunka5-frontend-broiler-plate/badges/gpa.svg)](https://codeclimate.com/github/korunka/korunka5-frontend-broilerplate)
+[![Codacy Badge](https://api.codacy.com/project/badge/grade/6df712b1f06b49ec8fa41c272a855a3d)](https://www.codacy.com/app/ondra/korunka5-frontend-broiler-plate)
+[![ISC Licensed](https://img.shields.io/badge/license-ISC-0b7dbe.svg)](https://spdx.org/licenses/ISC)
+[![Korunka badge](https://img.shields.io/badge/powered%20by-Loterie%20Korunka-edbf1f.svg)](https://www.korunka.eu/)
+
+
 
 ## Jak začít s tímto boilerplatem
 
